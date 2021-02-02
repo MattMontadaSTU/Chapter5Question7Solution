@@ -1,5 +1,5 @@
 /**
- * Class for performing a swap between bits
+ * Matthew Montada. 2/2/21, Class for performing a swap between bits, Chapter 5 Question 7
  * @author Matthew Montada
  *
  */
